@@ -58,8 +58,8 @@ label1.image = Avatar  # keep reference
 label4 = tk.Label(window, text="About The Artist", foreground="#2ed8b6", bg='#23272a', font=("Segoe Script", 10, "bold"))
 label4.place(x=200, y=155)
 # Text of Information
-text1 = Text(window, width=40, height=10, bg="#23272a", fg="#b0bec5", insertbackground="#2ed8b6")
-text1.place(x=100, y=175)
+text1 = Text(window, width=60, height=10, bg="#23272a", fg="#b0bec5", insertbackground="#2ed8b6")
+text1.place(x=25, y=175)
 text1.insert("1.0", artist.get("bio", "No information available."))
 text1.config(state="disabled")
 
