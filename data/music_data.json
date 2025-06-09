@@ -1,0 +1,256 @@
+{
+    "genres": {
+        "tereo": [
+            {
+                "title": "Kāhore He Manu E feat. Lorde",
+                "file": "music/tereo/song1.mp3",
+                "cover": "images/tereo/song1.png",
+                "artist": {
+                    "name": "Marlon Williams",
+                    "bio": "Marlon Williams (born December 31, 1990), hails from Lyttelton, New Zealand. He is of Kāi Tahu and Ngā Tai descent, and originally gained attention as the frontman of The Unfaithful Ways, later forming the acclaimed duo with Delaney Davidson and fronting his band, The Yarra Benders ",
+                    "image": "images/tereo/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga",
+                    "youtube": "https://www.youtube.com/channel/UCfzyuqY_hvYkGXF-SsUHQzg",
+                    "instagram": "https://www.instagram.com/marlonwilliamssings/?hl=en"
+                }
+            },
+            {
+                "title": "Tū mai te Reo",
+                "file": "music/tereo/song2.mp3",
+                "cover": "images/tereo/song2.png",
+                "artist": {
+                    "name": "TOHU",
+                    "bio": "TOHU is a fresh, five-piece collective from Rotorua, made in December 2022. The band is anchored in the ethos of whanaungatanga (community), manaakitanga (care), aroha (love), auahatanga (creativity), and kōrero (communication), united by a shared vision to foster a bilingual Aotearoa through music",
+                    "image": "images/tereo/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/5oUP1Mu9KCC1DqMTGs7zMk",
+                    "youtube": "https://www.youtube.com/@tohumusic7325",
+                    "instagram": "https://www.instagram.com/tohu_music/*/"
+                }
+            }
+        ],
+        "pasifika": [
+            {
+                "title": "Mai Anamua",
+                "file": "music/pasifika/song1.mp3",
+                "cover": "images/pasifika/song1.png",
+                "artist": {
+                    "name": "Olivia Foa'i",
+                    "bio": "Olivia Foa'i is a Tokelauan-Samoan singer, songwriter, and dancer known for blending Polynesian roots with modern pop. A lead voice on Disney’s Moana soundtrack and daughter of Te Vaka founder Opetaia Foa'i, she brings bold Pacific pride to a global stage with her solo music and vibrant performances.",
+                    "image": "images/pasifika/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50",
+                    "youtube": "https://www.youtube.com/channel/UC0uwyQrwC5N0kpb2uX8Iyzw",
+                    "instagram": "https://www.instagram.com/oliviafoai/#"
+                }
+            },
+            {
+                "title": "Tangata Huruhuru",
+                "file": "music/pasifika/song2.mp3",
+                "cover": "images/pasifika/song2.png",
+                "artist": {
+                    "name": "Rex Atirai",
+                    "bio": "Rex Atirai is a dynamic New Zealand-born musician and singer, deeply rooted in Cook Islands heritage. Blending reggae and reggae-fusion styles, he weaves traditional Pacific Island melodies with modern elements, creating vibrant and uplifting music.",
+                    "image": "images/pasifika/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW",
+                    "youtube": "https://www.youtube.com/channel/UClKOgsizxmT1dDeP_ueQ9DQ",
+                    "instagram": "https://www.instagram.com/rex_atirai_music/#"
+                }
+            }
+        ],
+        "multicultural": [
+            {
+                "title": "Dhoop",
+                "file": "music/multicultural/song1.mp3",
+                "cover": "images/multicultural/song1.png",
+                "artist": {
+                    "name": "Avish Sharma",
+                    "bio": "Avish is a Kiwi-Indian singer-songwriter and live performer from Auckland, New Zealand currently based in Mumbai, India.",
+                    "image": "images/multicultural/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/6Xmihw4G1rNjdUI3eH1QBv?si=F3XxSeiPT-ekhZmpUgExKw&nd=1&dlsi=4a2cdfd5b4d3411e",
+                    "youtube": "https://www.youtube.com/channel/UCWN2sOblkMGj_FvWdupEiVw",
+                    "instagram": "https://www.instagram.com/avishsharma_/"
+                }
+            },
+            {
+                "title": "RAHE MA",
+                "file": "music/multicultural/song2.mp3",
+                "cover": "images/multicultural/song2.png",
+                "artist": {
+                    "name": "CHAII",
+                    "bio": "CHAII (Mona Sanei) is a Persian-New Zealand electronic hip-hop artist, producer, and creative director known for blending Persian musical elements with contemporary hip-hop and electronica. Born in Ahvaz, Iran, she migrated to New Zealand at the age of eight. Her musical journey began with rapping to Eminem tracks, which helped her learn English and ignited her passion for music.",
+                    "image": "images/multicultural/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF?si=8da-6r0LQaeBiFOl0rSU4g&nd=1&dlsi=604290a1d0bb441b",
+                    "youtube": "https://www.youtube.com/channel/UCzp_2V_hkVH3MHPG5eCKy_g",
+                    "instagram": "https://www.instagram.com/chaii_music/#"
+                }
+            }
+        ],
+        "pop": [
+            {
+                "title": "Run!",
+                "file": "music/pop/song1.mp3",
+                "cover": "images/pop/song1.png",
+                "artist": {
+                    "name": "PRINS ",
+                    "bio": "Kiwi sensation PRINS, seamlessly combined her multifaceted talents in acting, dancing, and modeling to craft a distinctive brand of electro-pop that has taken both the New Zealand and global music scenes by storm.",
+                    "image": "images/pop/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq?si=FX6JyOAHTqWfjSqWLf6G_w",
+                    "youtube": "https://www.youtube.com/channel/UCh-T8zOTu5pdLGKkUxhjO8w",
+                    "instagram": "https://www.instagram.com/thereal.prins/"
+                }
+            },
+            {
+                "title": "Nothing of You Remaining",
+                "file": "music/pop/song2.mp3",
+                "cover": "images/pop/song2.png",
+                "artist": {
+                    "name": "Welcomer",
+                    "bio": "Welcomer, a wilted-pop Wellington 5-piece centred around main songwriter Miles Sutton, write intricate, raw and beautiful pop songs. Their self-titled debut EP was released late 2022; their debut album will be released in 2025.",
+                    "image": "images/pop/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/1jRqs9zsP6pMrs9m4FTVxJ",
+                    "youtube": "https://www.youtube.com/@Welcomerwelcomer",
+                    "instagram": "https://www.instagram.com/welcomerwelcomer/#"
+                }
+            }
+        ],
+        "rap": [
+            {
+                "title": "PACK STEEL",
+                "file": "music/rap/song1.mp3",
+                "cover": "images/rap/song1.png",
+                "artist": {
+                    "name": "WHO SHOT SCOTT",
+                    "bio": "WHO SHOT SCOTT is the alternative music project by Iraqi born, New Zealand bred artist/producer Zaidoon Nasir. His genre crossing production combined with fearlessly vulnerable songwriting has carved him out an international cult-like following. ",
+                    "image": "images/rap/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP",
+                    "youtube": "https://www.youtube.com/channel/UCx8i7DnDHpe76pEVnA-poRg",
+                    "instagram": "https://www.instagram.com/whoshotscott/"
+                }
+            },
+            {
+                "title": "WRAITH",
+                "file": "music/rap/song2.mp3",
+                "cover": "images/rap/song2.png",
+                "artist": {
+                    "name": "SXMPRA",
+                    "bio": "Born in Hamilton and currently based in Wellington, New Zealand, SXMPRA's childhood was spent constantly moving between small-town New Zealand cities and Australia, but the one thing that remained steady for the artist throughout his formative years was the internet allowing him unlimited access to the underground rap and nu-metal worlds that would later inform his artistry today as Sxmpra",
+                    "image": "images/rap/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R",
+                    "youtube": "https://www.youtube.com/channel/UCnAoMhaBA6x4DYW__pgRKgA",
+                    "instagram": "https://www.instagram.com/sxmpra/?hl=en"
+                }
+            }
+        ],
+        "rnb": [
+            {
+                "title": "Fever",
+                "file": "music/rnb/song1.mp3",
+                "cover": "images/rnb/song1.png",
+                "artist": {
+                    "name": "Foley",
+                    "bio": "Foley is an Auckland-based pop duo made up of Ash Wallace and Gabriel Everett. Blending bright synths, funk grooves, and heartfelt lyrics, they craft infectious alt-pop songs with emotional depth. Since their 2020 debut, Foley has earned acclaim with tracks like “Midnight” and “Fever,” solidifying their place in Aotearoa's modern pop scene.",
+                    "image": "images/rnb/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE",
+                    "youtube": "https://www.youtube.com/channel/UClXWLwsloJbXuyE3_VcHlvQ",
+                    "instagram": "https://www.instagram.com/wearefoley/"
+                }
+            },
+            {
+                "title": "Red Light",
+                "file": "music/rnb/song2.mp3",
+                "cover": "images/rnb/song2.png",
+                "artist": {
+                    "name": "TEEKS",
+                    "bio": "TEEKS (Te Karehana Gardiner-Toi) is a soul and R&B singer-songwriter from Northland, Aotearoa. Known for his rich vocals and emotional depth, he blends Māori heritage with timeless soul. His platinum debut album Something To Feel and 2024 single Red Light have cemented him as one of New Zealand's most powerful musical voices.",
+                    "image": "images/rnb/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ",
+                    "youtube": "https://www.youtube.com/channel/UCP-mlQpr1V3ZVRgLOA2u8tQ",
+                    "instagram": "https://www.instagram.com/thisteeks/?hl=en"
+                }
+            }
+        ],
+        "country": [
+            {
+                "title": "BORROW MY BOOTS",
+                "file": "music/country/song1.mp3",
+                "cover": "images/country/song1.png",
+                "artist": {
+                    "name": "Tami Neilson",
+                    "bio": "Tami Neilson is a celebrated New Zealand country and soul singer-songwriter known for her powerful voice and heartfelt storytelling. With multiple APRA Best Country Music Song awards under her belt, Tami blends classic country sounds with soulful flair. She has gained international recognition and regularly tours worldwide, captivating audiences with her dynamic performances and authentic style.",
+                    "image": "images/country/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3",
+                    "youtube": "https://www.youtube.com/channel/UC-S0KWVF60ntSL4SigZUL2Q",
+                    "instagram": "https://www.instagram.com/tamineilsonmusic/"
+                }
+            },
+            {
+                "title": "Brick by Brick",
+                "file": "music/country/song2.mp3",
+                "cover": "images/country/song2.png",
+                "artist": {
+                    "name": "Mel Parsons ",
+                    "bio": "Mel Parsons is a renowned New Zealand singer-songwriter celebrated for her evocative blend of indie folk and alternative country. Born on October 21, 1981, in Westport, she grew up on a sheep and beef farm in Cape Foulwind, near Westport, on the West Coast of New Zealand's South Island.",
+                    "image": "images/country/artist2.png",
+                    "spotify": "https://open.spotify.com/track/2lkh1ruRNDztL9aEfInPsi",
+                    "youtube": "https://www.youtube.com/channel/UC0vqZXNe7_O3X6uaYze5Vmw",
+                    "instagram": "https://www.instagram.com/melparsonsmusic/"
+                }
+            }
+        ],
+        "reggae": [
+            {
+                "title": "The Ngati Riddim",
+                "file": "music/reggae/song1.mp3",
+                "cover": "images/reggae/song1.png",
+                "artist": {
+                    "name": "Israel Starr",
+                    "bio": "Israel Starr (born Israel Buchanan) is a prominent New Zealand reggae artist, producer, and songwriter based in Wellington. Raised within the Twelve Tribes of Israel community, he was immersed in reggae culture from a young age, learning from influential figures like Che Fu and The Mighty Asterix, his father.",
+                    "image": "images/reggae/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui",
+                    "youtube": "https://www.youtube.com/channel/UCZXyIayqMm9hv5COXPha_HA",
+                    "instagram": "https://www.instagram.com/israelstarr/"
+                }
+            },
+            {
+                "title": "Just An Illusion",
+                "file": "music/reggae/song2.mp3",
+                "cover": "images/reggae/song2.png",
+                "artist": {
+                    "name": "Son and Water",
+                    "bio": "Son & Water is a contemporary reggae band from New Zealand, known for their fusion of roots reggae with soulful melodies and heartfelt lyrics. They gained significant attention in 2024 when they were added to the lineup of the One Love Festival in Tauranga, one of New Zealand's premier reggae events.",
+                    "image": "images/reggae/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/1ODcoNZfpYJmWHEF9eEgGi?si=nWnpaCfcTHKY-rGuRnFZBg&nd=1&dlsi=b9b3e382d8804a4a",
+                    "youtube": "https://www.youtube.com/channel/UCvVTqKaNGK0tY4N5fTEya0Q",
+                    "instagram": "https://www.instagram.com/sonandwater/"
+                }
+            }
+        ],
+        "rock": [
+            {
+                "title": "Heartbreak Queen",
+                "file": "music/rock/song1.mp3",
+                "cover": "images/rock/song1.png",
+                "artist": {
+                    "name": "The Transits",
+                    "bio": "The Transits are an indie-pop/punk trio bridging Auckland, New Zealand and Durban, South Africa. Known for their high-energy sound that fuses pop-punk, synth-pop, and surf-rock influences, the group records remotely across time zones. With anthemic tracks like “When You Went Away” and “Ghosts of Summer”, The Transits are gaining traction for their nostalgic yet modern edge, blending heartfelt lyrics with gritty hooks.",
+                    "image": "images/rock/artist1.png",
+                    "spotify": "https://open.spotify.com/artist/2BSRzROxZgCOIrJ9HGD6Xd?go=1&sp_cid=5e2597f51bdf7f45193d03218fcf970a&nd=1&dlsi=3d83500287864cd8",
+                    "youtube": "https://www.youtube.com/channel/UCGRag8BD4jhotIOmct_zmaw",
+                    "instagram": "https://www.instagram.com/the_transits/?hl=en"
+                }
+            },
+            {
+                "title": "Miles Away",
+                "file": "music/rock/song2.mp3",
+                "cover": "images/rock/song2.png",
+                "artist": {
+                    "name": "Villainy",
+                    "bio": "Villainy is a popular alternative rock band from Auckland, New Zealand, known for their powerful sound and emotive lyrics. Formed in 2010, they’ve released multiple acclaimed albums and won several NZ Music Awards for Best Rock Album. Villainy has toured extensively and supported major international acts, making them a key name in the NZ rock scene.",
+                    "image": "images/rock/artist2.png",
+                    "spotify": "https://open.spotify.com/artist/3TGyAB5Aa7rjP6roX8eSHe",
+                    "youtube": "https://www.youtube.com/watch?v=1JztUfe8qkk",
+                    "instagram": "https://www.instagram.com/villainymusic/#"
+                }
+            }
+        ]
+    }
+}
